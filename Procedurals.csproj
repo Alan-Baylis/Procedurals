@@ -88,6 +88,7 @@
     <Compile Include="Assets\Scripts\CubeMaker.cs" />
     <Compile Include="Assets\Scripts\MeshBuilder.cs" />
     <Compile Include="Assets\Scripts\PlaneMaker.cs" />
+    <Compile Include="Assets\Scripts\PyramidMaker.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
