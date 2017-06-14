@@ -88,6 +88,7 @@
     <Compile Include="Assets\Scripts\CubeMaker.cs" />
     <Compile Include="Assets\Scripts\LandscapeMaker.cs" />
     <Compile Include="Assets\Scripts\MeshBuilder.cs" />
+    <Compile Include="Assets\Scripts\PathMaker.cs" />
     <Compile Include="Assets\Scripts\PlaneMaker.cs" />
     <Compile Include="Assets\Scripts\PyramidMaker.cs" />
   </ItemGroup>
